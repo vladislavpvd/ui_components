@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#maincontent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: calc(100vw - 100px);
+    height: 100vh;
+    padding: 50px;
+    background-image: url('season');
+    background: #aaa;
+  }
+  
+  .txt {
+    font-weight: 700;
+    font-size: 40px;
+    color: #fff;
+    text-shadow: #000 1px 0 10px;
+  }
